@@ -1,0 +1,8 @@
+*.pkl
+*Zone.Identifier
+*_solutions.ipynb
+.DS_Store
+.ipynb_checkpoints/
+Data/
+Untitled.ipynb
+__pycache__/
